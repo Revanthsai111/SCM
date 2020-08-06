@@ -1,5 +1,6 @@
 #hello I am Revanth
 #!/bin/bash
+#i have updates this line
 
 echo "Enter your lucky number"
 read n
