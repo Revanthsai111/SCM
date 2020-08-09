@@ -14,6 +14,7 @@ then
 elif [ $n -eq 999 ];
 then
 	echo "You got 3rd prize"
+	echo "3rd prize"
 
 else
 	echo "Sorry, try for the next time"
